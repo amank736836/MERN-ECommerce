@@ -7,3 +7,6 @@
 [submodule "proxy"]
 	path = proxy
 	url = https://github.com/amank736836/MERN-ECommerce-Proxy
+[submodule "backend"]
+	path = backend
+	url = https://github.com/amank736836/MERN-ECommerce-BackEnd
